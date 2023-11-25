@@ -9,12 +9,6 @@ const data = [
         "amt": 2181
     },
     {
-        "name": "Page E",
-        "uv": 3400,
-        "pv": 30,
-        "amt": 2181
-    },
-    {
         "name": "Page D",
         "uv": 4000,
         "pv": 60,

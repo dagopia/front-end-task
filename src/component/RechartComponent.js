@@ -43,6 +43,23 @@ const data = [
         "uv": 10000,
         "pv": 85,
         "amt": 2400
+    },
+    {
+        "name": "Page A",
+        "uv": 8000,
+        "pv": 85,
+        "amt": 2400
+    }, {
+        "name": "Page A",
+        "uv": 7000,
+        "pv": 85,
+        "amt": 2400
+    },
+    {
+        "name": "Page A",
+        "uv": 6000,
+        "pv": 85,
+        "amt": 2400
     }
 ];
 const RechartComponent = (props) => {

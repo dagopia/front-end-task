@@ -34,8 +34,6 @@ export default function BitCoin() {
             {overlayBg ? <div className='overlay' >
             </div> : null}
             <div style={{ height: '100vh' }}>
-
-
                 <Header
                     toggleDropdown={toggleDropdown}
                     isDropdownVisible={isDropdownVisible}
